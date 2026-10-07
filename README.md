@@ -1,3 +1,4 @@
+**Live dashboard:** https://sahil01bhoir.github.io/financial-news-sentiment-analysis/dashboard.html
 # Financial News Sentiment Analysis & Weekly Event Summarizer
 ![Price vs sentiment](reports/figures/02_price_vs_sentiment.png)
 An end-to-end pipeline that classifies the sentiment of financial news, summarizes the most impactful positive and negative events each week with an LLM, and tests how sentiment shifts relate to stock price moves.
